@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\webServerControls\ProjectFee\bin\Debug\ProjectFee.dll
+C:\Users\Administrator\source\repos\webServerControls\ProjectFee\bin\Debug\ProjectFee.pdb
+C:\Users\Administrator\source\repos\webServerControls\ProjectFee\obj\Debug\ProjectFee.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\webServerControls\ProjectFee\obj\Debug\ProjectFee.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\webServerControls\ProjectFee\obj\Debug\ProjectFee.dll
+C:\Users\Administrator\source\repos\webServerControls\ProjectFee\obj\Debug\ProjectFee.pdb
